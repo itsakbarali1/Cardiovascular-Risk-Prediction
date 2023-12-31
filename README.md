@@ -65,5 +65,4 @@ Overall, this project highlights the importance of careful data preparation and 
 
 ## Authors
 
-- [Mohammed Yahya Ansari](https://www.linkedin.com/in/yahya-ansari/)
-- [Prafull Korde](https://www.linkedin.com/in/prafull-korde-400560126/)
+- [Akbar Ali Shaikh]
